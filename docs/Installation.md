@@ -32,4 +32,3 @@ chmod +x ~/.config/sketchybar/items/front_app.sh
 ```shell
 brew install --cask karabiner-elements
 ```
-
