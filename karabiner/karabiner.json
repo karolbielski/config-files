@@ -39,6 +39,18 @@
                         {
                             "from": { "key_code": "f9" },
                             "to": [{ "key_code": "f9" }]
+                        },
+                        {
+                            "from": { "key_code": "f10" },
+                            "to": [{ "key_code": "dashboard" }]
+                        },
+                        {
+                            "from": { "key_code": "f11" },
+                            "to": [{ "consumer_key_code": "rewind" }]
+                        },
+                        {
+                            "from": { "key_code": "f12" },
+                            "to": [{ "consumer_key_code": "fast_forward" }]
                         }
                     ],
                     "identifiers": {
