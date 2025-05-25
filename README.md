@@ -9,36 +9,18 @@
 
 ### AeroSpace
 
-Install
-
 ```shell
 brew install --cask nikitabobko/tap/aerospace
 ```
 
-Copy configuration
-
-```shell
-cp aerospace/.aerospace.toml ~/.aerospace.toml
-```
-
 ### JankyBorders
-
-Install
 
 ```shell
 brew tap FelixKratz/formulae
 brew install borders
 ```
 
-Copy configuration
-
-```shell
-cp jankyborders/bordersrc ~/.config/borders/bordersrc
-```
-
 ### SketchyBar
-
-Install
 
 ```shell
 brew tap FelixKratz/formulae
@@ -52,7 +34,27 @@ chmod +x ~/.config/sketchybar/plugins/icon_map_fn.sh
 chmod +x ~/.config/sketchybar/items/front_app.sh
 ```
 
-Copy configuration
+### Karabiner-Elements
+
+```shell
+brew install --cask karabiner-elements
+```
+
+## Copy configuration
+
+### AeroSpace
+
+```shell
+cp aerospace/.aerospace.toml ~/.aerospace.toml
+```
+
+### JankyBorders
+
+```shell
+cp jankyborders/bordersrc ~/.config/borders/bordersrc
+```
+
+### SketchyBar
 
 ```shell
 cp -a sketchybar ~/.config
@@ -60,14 +62,7 @@ cp -a sketchybar ~/.config
 
 ### Karabiner-Elements
 
-Install
-
-```shell
-brew install --cask karabiner-elements
-```
-
-Copy configuration
-
 ```shell
 cp -a karabiner ~/.config
 ```
+
