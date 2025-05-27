@@ -1,5 +1,11 @@
 # Configuration
 
+You can load all configs at once by
+```
+bash load_configs.sh
+```
+or run one by one as described below.
+
 ## AeroSpace
 
 ```shell
