@@ -6,9 +6,10 @@ echo "AeroSpace config saved"
 cp ~/.config/borders/bordersrc jankyborders/bordersrc
 echo "JankyBorders config saved"
 
-cp -a ~/.config sketchybar 
+cp -a ~/.config/sketchybar .
 echo "SketchyBar config saved" 
 
-cp -a ~/.config karabiner 
+cp -a ~/.config/karabiner .
+rm -rf karabiner/automatic_backups
 echo "Karabiner-Elements config saved"
 
