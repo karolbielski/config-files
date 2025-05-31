@@ -1,24 +1,24 @@
-# My Dot Files
+# My Dotfiles
 
-### Used tools
+### Tools
 
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) as tile manager
 - [JankyBorders](https://github.com/FelixKratz/JankyBorders) to style frames
 - [SketchyBar](https://github.com/FelixKratz/SketchyBar) to style status bar
 - [Karabiner](https://karabiner-elements.pqrs.org) to map keyboard keys
 
-[Installation](docs/Installation.md)
+Detailed installation can be found [here](docs/Installation.md).
 
-### Using configs
+### Usage
 
-Load all configs at once
+Load all configs
 ```
-bash load_configs.sh
-```
-
-Save all configs at once
-```
-bash save_configs.sh
+bash scripts/load_configs.sh
 ```
 
-[Detailed configuration](docs/Configuration.md)
+Save all configs
+```
+bash scripts/save_configs.sh
+```
+
+Detailed configuration can be found [here](docs/Configuration.md).
