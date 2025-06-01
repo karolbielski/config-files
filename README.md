@@ -21,4 +21,4 @@ Save all configs
 bash scripts/save_configs.sh
 ```
 
-Detailed configuration can be found [here](docs/Configuration.md).
+Detailed configuration of how to load configs can be found [here](docs/LoadConfigs.md) and how to save configs [here](docs/SaveConfigs.md).
