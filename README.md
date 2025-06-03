@@ -6,6 +6,7 @@
 - [JankyBorders](https://github.com/FelixKratz/JankyBorders) to style frames
 - [SketchyBar](https://github.com/FelixKratz/SketchyBar) to style status bar
 - [Karabiner](https://karabiner-elements.pqrs.org) to map keyboard keys
+- [Raycast](https://www.raycast.com) for system shortcuts
 
 Detailed installation can be found [here](docs/Installation.md).
 
