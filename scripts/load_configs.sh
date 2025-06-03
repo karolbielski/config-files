@@ -12,3 +12,6 @@ echo "SketchyBar config loaded"
 cp -a karabiner ~/.config
 echo "Karabiner-Elements config loaded"
 
+cp -a raycast ~/.config
+echo "Raycast config loaded"
+

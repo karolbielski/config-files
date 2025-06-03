@@ -29,3 +29,10 @@ cp -a sketchybar ~/.config
 ```shell
 cp -a karabiner ~/.config
 ```
+
+## Raycast
+
+```shell
+cp -a raycast ~/.config
+```
+

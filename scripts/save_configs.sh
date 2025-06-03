@@ -13,3 +13,6 @@ cp -a ~/.config/karabiner .
 rm -rf karabiner/automatic_backups
 echo "Karabiner-Elements config saved"
 
+cp -a ~/.config/raycast .
+echo "Raycast config saved"
+

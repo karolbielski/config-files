@@ -32,3 +32,8 @@ chmod +x ~/.config/sketchybar/items/front_app.sh
 ```shell
 brew install --cask karabiner-elements
 ```
+
+## Raycast
+
+Download Raycast at [their homepage](https://www.raycast.com/) and install manually.
+
