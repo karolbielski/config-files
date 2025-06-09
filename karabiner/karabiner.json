@@ -38,11 +38,11 @@
                         },
                         {
                             "from": { "key_code": "f9" },
-                            "to": [{ "key_code": "f9" }]
+                            "to": [{ "consumer_key_code": "volume_decrement" }]
                         },
                         {
                             "from": { "key_code": "f10" },
-                            "to": [{ "key_code": "dashboard" }]
+                            "to": [{ "consumer_key_code": "volume_increment" }]
                         },
                         {
                             "from": { "key_code": "f11" },
